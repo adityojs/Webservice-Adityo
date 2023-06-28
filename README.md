@@ -1,3 +1,7 @@
+no1springbootadityo = belum dilakukan Bug,
+
+no1springbootadityoafter = setelah dilakukan Bug
+
 # Webservice-Adityo
 http://localhost:8080/external/services/ws/sample-service
 
